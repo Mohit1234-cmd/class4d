@@ -2,3 +2,5 @@
 
 
 <line added by master>
+
+<line added by branch B>
